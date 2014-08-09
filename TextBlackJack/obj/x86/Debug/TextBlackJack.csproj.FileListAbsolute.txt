@@ -1,0 +1,5 @@
+C:\Users\DoobieDoctor5000\Documents\Visual Studio 2010\Projects\XNA Projects\TextBlackJack\TextBlackJack\bin\Debug\TextBlackJack.exe
+C:\Users\DoobieDoctor5000\Documents\Visual Studio 2010\Projects\XNA Projects\TextBlackJack\TextBlackJack\bin\Debug\TextBlackJack.pdb
+C:\Users\DoobieDoctor5000\Documents\Visual Studio 2010\Projects\XNA Projects\TextBlackJack\TextBlackJack\obj\x86\Debug\TextBlackJack.exe
+C:\Users\DoobieDoctor5000\Documents\Visual Studio 2010\Projects\XNA Projects\TextBlackJack\TextBlackJack\obj\x86\Debug\TextBlackJack.pdb
+C:\Users\DoobieDoctor5000\Documents\Visual Studio 2010\Projects\XNA Projects\TextBlackJack\TextBlackJack\obj\x86\Debug\TextBlackJack.csprojResolveAssemblyReference.cache
